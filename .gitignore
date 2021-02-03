@@ -1,0 +1,4 @@
+.*.swp
+.idea
+.git
+go.sum
